@@ -18,4 +18,6 @@ git config --global user.email ""
 
 ## Работа с ветками
 
+Для удаления ветки используется команда git branch -d name_branch
+
 ## Конфликты
